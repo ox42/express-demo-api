@@ -1,0 +1,43 @@
+[
+  {
+    "type": "Institution",
+    "name": "MIT",
+    "url": "https://www.mit.edu",
+    "domain": "mit.edu"
+  },
+
+  {
+    "type": "Institution",
+    "name": "Harvard",
+    "url": "https://www.harvard.edu",
+    "domain": "harvard.edu"
+  },
+
+  {
+    "type": "Institution",
+    "name": "Stanford University",
+    "url": "https://www.stanford.edu",
+    "domain": "stanford.edu"
+  },
+
+  {
+    "type": "Book",
+    "isbn": "1593275994",
+    "title": "Automate the Boring Stuff with Python",
+    "author": "Al Sweigart"
+  },
+
+  {
+    "type": "Book",
+    "isbn": "B00H1W9I6C",
+    "title": "A Smarter Way to Learn JavaScript",
+    "author": "Mark Myers"
+  },
+
+  {
+    "type": "Book",
+    "isbn": "1593279507",
+    "title": "Eloquent JavaScript, 3rd Edition",
+    "author": "Marijn Haverbeke"
+  }
+]
